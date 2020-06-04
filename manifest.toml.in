@@ -1,0 +1,9 @@
+name = "Tuvinian"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.tyv"
+
+[windows]
+system_product_code = "EB5C24F5-CCE3-4D63-ADE0-75834C656734"
+msoffice_product_code = "08CCE5BB-09A4-4D3C-A45C-BC03AFA419F5"
