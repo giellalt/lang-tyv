@@ -1,6 +1,10 @@
 The Tuvinian (Tuvan) morphology and tools
 ==========================================
 
+[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tyv)](https://github.com/giellalt/lang-tyv/issues)
+[![Build Status](https://github.com/giellalt/lang-tyv/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tyv/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-tyv)](https://raw.githubusercontent.com/giellalt/lang-tyv/develop/LICENSE)
+
 This repository contains finite state source files for the Tuvinian language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under __LICENCE__
@@ -8,10 +12,6 @@ licence, also detailed in the
 [LICENCE](https://github.com/giellalt/lang-tyv/blob/develop/LICENCE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
-
-[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tyv)](https://github.com/giellalt/lang-tyv/issues)
-[![Build Status](https://github.com/giellalt/lang-tyv/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tyv/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-tyv)](https://raw.githubusercontent.com/giellalt/lang-tyv/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-tyv)
 for the Tuvinian language by using the [Divvun Installer](http://divvun.no)
