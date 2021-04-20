@@ -1,11 +1,11 @@
 # Tuvinian documentation
 
-This page documents the work on the **Tuvinian language model**. 
-
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tyv)](https://github.com/giellalt/lang-tyv/issues)
 [![Build status](https://github.com/giellalt/lang-tyv/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tyv/actions)
+
+This page documents the work on the **Tuvinian language model**. 
 
 # Project documentation
 
