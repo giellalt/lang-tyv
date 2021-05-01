@@ -1,3 +1,54 @@
+Noun inflection
+The Tuvinian language nouns inflect in cases.
+
+
+
+Proper noun inflection
+The Tuvinian language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Tuvinian language adjectives compare.
+
+
+
+Verb inflection
+The Tuvinian language verbs inflect in persons.
+
+
+
+=================================== !
+The Tuvinian morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
 
 # Tuvinian morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Tuvinian LANGUAGE.
@@ -77,6 +128,85 @@ given the proper use of these flags.
 
 The word forms in Tuvinian language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
+
+Nouns
+Nouns in the Tuvinian language are things.
+
+
+Prefixes
+Prefixes in the Tuvinian language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Tuvinian language are references to things.
+
+
+Adjectives
+Adjectives in the Tuvinian language describe things.
+
+
+Verbs
+Verbs in the Tuvinian language are actions.
+
+
+Numerals
+Numerals in the Tuvinian language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
