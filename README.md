@@ -3,7 +3,7 @@ The Tuvinian (Tuvan) morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tyv)](https://github.com/giellalt/lang-tyv/issues)
 [![Build Status](https://github.com/giellalt/lang-tyv/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tyv/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-tyv)](https://raw.githubusercontent.com/giellalt/lang-tyv/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-tyv)](https://github.com/giellalt/lang-tyv/blob/main/LICENSE)
 
 This repository contains finite state source files for the Tuvinian language,
 for building morphological analysers, proofing tools
