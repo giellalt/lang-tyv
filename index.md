@@ -1,7 +1,7 @@
 # Tuvinian documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/lang-tyv)](https://raw.githubusercontent.com/giellalt/lang-tyv/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-tyv)](https://github.com/giellalt/lang-tyv/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tyv)](https://github.com/giellalt/lang-tyv/issues)
 [![Build status](https://github.com/giellalt/lang-tyv/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tyv/actions)
 
