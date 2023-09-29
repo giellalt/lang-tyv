@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Beta-yellow.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-tyv)](https://github.com/giellalt/lang-tyv/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tyv)](https://github.com/giellalt/lang-tyv/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-tyv/main/badge.svg)](https://github.com/giellalt/lang-tyv/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-tyv/main/badge.svg)](https://github.com/giellalt/lang-tyv/actions)
 
 This page documents the work on the **Tuvinian language model**. 
 
