@@ -22,3 +22,4 @@ legacy_product_codes = [
     { value = "EB5C24F5-CCE3-4D63-ADE0-75834C656734", kind = "nsis" },
     { value = "08CCE5BB-09A4-4D3C-A45C-BC03AFA419F5", kind = "nsis" }
 ]
+extra_locales = { tyv-RU = "tyv" }
